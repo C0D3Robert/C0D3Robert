@@ -1,52 +1,49 @@
-<h1 align="center">Hola, soy C0D3Robert 👨‍💻</h1>
-
+<h1 align="center">👋 Hola, soy C0D3Robert</h1>
 <p align="center">
-  <strong>Desarrollador Backend con habilidades Frontend | Apasionado por la programación y la ciberseguridad</strong>
+  <strong>Desarrollador Backend | Explorador Frontend | Estudiante de Ingeniería en Ciberseguridad</strong>
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-Soy desarrollador backend con experiencia en freelancing, y me desenvuelvo también en el frontend. Me apasiona la capacidad que tiene la programación para convertir ideas en soluciones reales. Actualmente estudio Ingeniería en Ciberseguridad y estoy trabajando en el desarrollo de mi propia aplicación.
+💻 Desarrollador backend con experiencia en freelancing.  
+🎨 También me desenvuelvo en frontend con React y Tailwind.  
+🔐 Apasionado por la programación y la ciberseguridad.  
+🚀 Actualmente estudio Ingeniería en Ciberseguridad y estoy trabajando en mi primera app personal.
 
 ---
 
 ### 🛠️ Tecnologías que uso
 
-- Lenguajes: Python, C++, HTML, CSS, JavaScript
-- Frameworks y herramientas: Django, React, TailwindCSS
+#### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks y herramientas
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 🚀 Objetivos
+### 📂 Proyectos futuros
 
-- Desarrollar una app propia con impacto real
-- Construir un portafolio sólido con proyectos útiles y bien documentados
-- Aprender y aplicar principios de ciberseguridad en el desarrollo web
-
----
-
-### 📂 Proyectos futuros para mi portafolio
-
-Aquí algunos proyectos que planeo desarrollar:
-
-- 🔐 Gestor de contraseñas seguro (Django + Tailwind)  
-- 📊 Dashboard de estadísticas en tiempo real (React + API externa)  
-- 🧠 App de notas con cifrado local  
-- 🗂️ Portafolio web personal con blog técnico  
-- 🕵️‍♂️ Simulador de ataques básicos de ciberseguridad para fines educativos
+🧠 Gestor de contraseñas seguro  
+📊 Dashboard de estadísticas en tiempo real  
+🗂️ Portafolio web personal con blog técnico  
+🕵️‍♂️ Simulador de ataques básicos para educación en ciberseguridad
 
 ---
 
-### 📫 Contacto
+### 🎯 Objetivos
 
-Estoy construyendo mi presencia online. Pronto compartiré:
-
-- 🌐 Sitio web personal
-- 📘 Blog técnico
-- 💼 LinkedIn
-- 📧 Email profesional
+- Crear una app propia con impacto real  
+- Construir un portafolio sólido y profesional  
+- Aplicar principios de ciberseguridad en desarrollo web
 
 ---
 
@@ -58,7 +55,16 @@ Estoy construyendo mi presencia online. Pronto compartiré:
 
 ---
 
-### 🧩 ¿Sabías que...?
+### 📫 Contacto
+
+🚧 En construcción:  
+- 🌐 Sitio web personal  
+- 💼 LinkedIn  
+- 📧 Email profesional  
+
+---
+
+### 🧩 Frase que me define
 
 > “La programación no es solo código. Es una forma de pensar, de crear y de transformar.”
 
